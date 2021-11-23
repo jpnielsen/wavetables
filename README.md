@@ -5,7 +5,7 @@
 Generates a wavetable of 2048 x 128 x 32 bit float.
 
 Here shown in VCV RAck 2.beta.1 
-Set to widt 2048 in right-click menu.
+Set to 2048 wave-points in the right-click menu.
 
 [<img width="88" alt="image" src="https://user-images.githubusercontent.com/27916597/142969178-1af45a57-ba33-4517-aef3-83cac995cc96.png">](https://vcvrack.com/)
 
