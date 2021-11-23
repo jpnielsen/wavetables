@@ -33,4 +33,3 @@ for waveIndex in range(numWaves):
 data = np.array(results, dtype = np.float32)
 #np.savetxt("output.txt",data)
 scipy_io_wavfile.write("wavetable.wav", sampleRate, data.astype('float32'))
-
