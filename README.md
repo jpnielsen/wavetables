@@ -2,7 +2,7 @@
 
 <h3>genwav_float.py</h3>
 
-Generates a wavetable of 2048 x 128 32 bit float of a sawtooth waveform, varying the symmetry from |\ to /\ to /|
+Generates a wavetable of 2048 x 128 x 32 bit float.
 
 Here shown in VCV RAck 2.beta.1 
 Set to widt 2048 in right-click menu.
