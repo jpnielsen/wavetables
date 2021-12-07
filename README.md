@@ -1,5 +1,7 @@
 <h1> wavetables</h1>
 
+AKWT.zip are the wt files from https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master/AKWF--Surge/AKWF-WT-512 renamed to raw and zipped.
+
 <h3>genwav_float.py</h3>
 
 Disclaimer: I'm not very skilled in python programming, A better/faster method could easily be made by someone with python skills.
