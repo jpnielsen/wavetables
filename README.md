@@ -1,10 +1,10 @@
-<h1> wavetables</h1>
+# Wavetables
 
-AKWF_7S_all_banks.wav
+## AKWF_7S_all_banks.wav
 
 64 first waveforms from https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master/AKWF--Synthesis-Technology/Wavetables imported by drag-dropping to NYSTHI 7Seas and save as wav.
 
-<h3>genwav_float.py</h3>
+## genwav_float.py
 
 Disclaimer: I'm not very skilled in python programming, A better/faster method could easily be made by someone with python skills.
 
