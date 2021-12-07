@@ -2,7 +2,7 @@
 
 AKWF_7S_all_banks.wav
 
-64 first waveforms from https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master/AKWF--Synthesis-Technology/Wavetables imported y drag-dropping to NYSTHI 7Seas and save as wav.
+64 first waveforms from https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master/AKWF--Synthesis-Technology/Wavetables imported by drag-dropping to NYSTHI 7Seas and save as wav.
 
 <h3>genwav_float.py</h3>
 
