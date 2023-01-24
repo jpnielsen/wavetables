@@ -8,8 +8,9 @@
 
 Disclaimer: I'm not very skilled in python programming, A better/faster method could easily be made by someone with python skills.
 
-Me: """optimize the code by using numpy array and vectorization of the code.""" 
-CoPilot: hold my beer.
+Me: """optimize the code by using numpy array and vectorization of the code.""" <br>
+CoPilot: <generates gen_wave2_float.py><br>
+
 
 
 Generates a wavetable of 2048 x 128 x 32 bit float.
