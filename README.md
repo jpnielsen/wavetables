@@ -8,6 +8,10 @@
 
 Disclaimer: I'm not very skilled in python programming, A better/faster method could easily be made by someone with python skills.
 
+Me: """optimize the code by using numpy array and vectorization of the code.""" 
+CoPilot: hold my beer.
+
+
 Generates a wavetable of 2048 x 128 x 32 bit float.
 
 Here shown in VCV RAck 2.beta.1 
