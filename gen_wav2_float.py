@@ -9,7 +9,7 @@ numWaves = 128  # of waveforms in wavetable
 pi = np.pi  # the constant pi
 
 # Define wavetable as function of time 0 <= t < 1
-# and interpolation parameter 0 <= x < 1
+# and sawtooth maximum parameter 0 <= x < 1
 
 def waves(t, x):
     return signal.sawtooth(2 * pi * t, x)
