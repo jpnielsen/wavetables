@@ -1,9 +1,3 @@
-# Wavetables
-
-## AKWF_7S_all_banks.wav
-
-64 first waveforms from https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE/tree/master/AKWF--Synthesis-Technology/Wavetables imported by drag-dropping to [NYSTHI 7Seas](https://library.vcvrack.com/NYSTHI/SevenSeas) and save as wav. Load in 7 seas with right-click "LOAD GLOBAL BANK"
-
 ## genwav_float.py
 
 Generates a wavetable of 2048 x 128 x 32 bit float.
