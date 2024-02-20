@@ -16,6 +16,6 @@ Inspired by the Moog One synthesizer:
 
 <hr>
 
-I don't know how it's generated in a Moog One, but i found this, that I might try protoboarding some day..<br>
-https://www.till.com/articles/VariableSaw/index.html
-
+I don't know how it's generated in a Moog One, but i found this, that I might try protoboarding some day..<br><br>
+[https://www.till.com/articles/VariableSaw/index.html
+](https://web.archive.org/web/20221001200406/https://till.com/articles/VariableSaw/index.html)https://web.archive.org/web/20221001200406/https://till.com/articles/VariableSaw/index.html
