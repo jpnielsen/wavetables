@@ -1,8 +1,9 @@
-## genwav_float.py
+## gen_wav2_float.py
 
-Generates a wavetable of 2048 x 128 x 32 bit float.
+Wavetable of 2048 x 128 x 32 bit float of the assymmetric saw/triangle/ramp waveform .
 
-Me: """optimize the code by using numpy array and vectorization of the code.""" <br>
+Me: Hacks together some python to output a wavetable.
+"""optimize the code by using numpy array and vectorization of the code.""" <br>
 CoPilot: generates gen_wav2_float.py<br>
 Me: that's faster.<br>
 
